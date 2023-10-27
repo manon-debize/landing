@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&family=Tilt+Neon&display=swap");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/texte.css");
+@import url("components/body.css");
+@import url("components/form.css");
+
+body {
+	font-family: 'Tilt Neon', sans-serif;
+	font-size : 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+}
+
+
+
+
+
+
